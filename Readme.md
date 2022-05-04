@@ -21,6 +21,6 @@ sebuah loading sederhana yang dibuat dengan bahasa pemrograman javascript
 
 ### preview
 
-![result](https://github.com/candradwicahyo/blob/master/preview.jpg)
+![result](https://github.com/candradwicahyo/loading-count/blob/master/preview.jpg)
 
 > dibuat dengan **candra dwi cahyo**
